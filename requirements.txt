@@ -1,9 +1,9 @@
-ant design for design
-ant design icons for icons 
-react redux toolkit
-axios to make api request
-chart.js for charts
-html-react-parser for parsing html data
-millify to transform extremly large numbers into readable strings
-moment for time and date parsing
-react-chartjs-2 to render the chart in react app
+# ant design for design
+# ant design icons for icons 
+# react redux toolkit
+# axios to make api request
+# chart.js for charts
+# html-react-parser for parsing html data
+# millify to transform extremly large numbers into readable strings
+# moment for time and date parsing
+# react-chartjs-2 to render the chart in react app
